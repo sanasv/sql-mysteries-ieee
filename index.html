@@ -66,21 +66,7 @@
   gtag('js', new Date());
 
   gtag('config', 'G-8F4WPDMPL5');
-</script>
 
-<script>
-  async function loadDatabase() {
-    const SQL = await initSqlJs({ locateFile: file => `https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.6.2/${file}` });
-    const response = await fetch("sql-murder-mystery.db");
-    const buffer = await response.arrayBuffer();
-    const db = new SQL.Database(new Uint8Array(buffer));
-
-    // Example of querying the database
-    const results = db.exec("SELECT name FROM sqlite_master WHERE type='table';");
-    console.log("Tables in the database:", results);
-  }
-
-  window.onload = loadDatabase();
 </script>
 
     <title>The SQL Murder Mystery</title>
