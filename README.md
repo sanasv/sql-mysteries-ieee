@@ -6,8 +6,9 @@ There's been a murder in SQLCity! Can you find out who did it using your SQL ski
 
 ## How to Play
 1. Open the [SQL Murder Mystery website](https://sanasv.github.io/sql-mysteries-ieee/).
-2. Use the SQL editor to write and execute queries.
-3. Examine the evidence in the database tables to piece together clues and solve the case. (Take notes if you need!)
+2. Open the [Prompt](prompt.pdf).
+3. Use the SQL editor to write and execute queries.
+4. Examine the evidence in the database tables to piece together clues and solve the case. (Take notes if you need!)
 
 ## The Database
 
