@@ -28,14 +28,6 @@ Navigate your way through the following tables to find evidence and clues:
 ![texts](texts.png)
 
 ## Acknowledgments
-- Thanks to Knight Lab for the original SQL Murder Mystery.
-- Inspired by crime-solving games and SQL learning tools.
+- Thanks to Knight Lab for the original [SQL Murder Mystery](https://mystery.knightlab.com/).
+- The code was modified from Knight Lab's github repository which can be found [here](https://github.com/NUKnightLab/sql-mysteries).
 
-## Copyright and License
-Original code for this project is released under [the MIT License](https://github.com/NUKnightLab/sql-mysteries/blob/master/LICENSE). 
-
-Original text and other content is released under [Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
-
-SQL query custom web components used here were adapted from code created and released to the public domain by Zi Chong Kao, creator of [Select Star SQL](https://selectstarsql.com/).
-
-[Detective image by rambleron](https://www.vecteezy.com/vector-art/174092-clue-illustration) used under Vecteezy's free license.
